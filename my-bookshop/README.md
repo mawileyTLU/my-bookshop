@@ -23,3 +23,6 @@ File / Folder | Purpose
 ## Learn more...
 
 Learn more at https://cap.cloud.sap/docs/get-started/
+
+## Project Tutorial Link
+https://developers.sap.com/tutorials/cp-apm-nodejs-create-service.html#d8bea6a5-1167-42ed-af6f-bbadd8f5ccfa
