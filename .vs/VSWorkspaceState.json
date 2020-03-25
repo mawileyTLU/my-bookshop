@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\my-bookshop",
+    "\\my-bookshop\\db",
+    "\\my-bookshop\\srv"
   ],
+  "SelectedNode": "\\my-bookshop\\.cdsrc.json",
   "PreviewInSolutionExplorer": false
 }
